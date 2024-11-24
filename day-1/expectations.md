@@ -12,3 +12,4 @@
 - Engaging more in public speaking
 - Taking time to revise content
 - Break down assignments into smaller tasks and complete them/don't procrastinate
+- Openly communicate to the coaches about our current progress
