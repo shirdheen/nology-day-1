@@ -1,4 +1,4 @@
-Expectations from nology coaches:
+# Expectations from nology coaches:
 
 - Lectures are easy to access and easy to get information from/Materials are readily available
 - More understanding and no judgements
@@ -6,7 +6,7 @@ Expectations from nology coaches:
 - Content covered is up to date, and they are able to provide feedback on our work in due time
 - Career support
 
-Expectations for us:
+# Expectations for us:
 
 - Actively participation and supporting one another
 - Engaging more in public speaking
