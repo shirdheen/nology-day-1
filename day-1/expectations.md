@@ -6,7 +6,7 @@
 - Content covered is up to date, and they are able to provide feedback on our work in due time
 - Career support
 
-# Expectations for us:
+# Expectations from ourselves:
 
 - Actively participation and supporting one another
 - Engaging more in public speaking
