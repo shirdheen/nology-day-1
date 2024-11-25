@@ -1,4 +1,4 @@
-# Icebreaker
+# Icebreaker 2
 
 - Nikita - likes food
 - Petr - from overseas (Czech Republic)
